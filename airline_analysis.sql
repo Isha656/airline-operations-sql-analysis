@@ -1,10 +1,10 @@
 -- ============================================================
 -- AIRLINE DATA ANALYSIS — SQL Portfolio Project
--- Author  : [Your Name]
+-- Author  : Isha Shah
 -- Dataset : US Domestic Flights (flights, airline, airport tables)
 -- Goal    : Uncover operational insights — delays, routes,
 --           cancellations, and airline performance rankings
--- Tools   : SQL (MySQL / PostgreSQL compatible)
+-- Tools   : SQL Developer (MySQL / Oracle Syntax)
 -- ============================================================
 
 
@@ -283,5 +283,4 @@ ORDER BY overall_rank;
 
 -- ============================================================
 -- END OF PROJECT
--- For questions or feedback: [your email / LinkedIn]
 -- ============================================================
